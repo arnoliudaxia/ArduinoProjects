@@ -1,0 +1,3 @@
+[submodule "IoT/DoorServoControl"]
+	path = IoT/DoorServoControl
+	url = https://github.com/arnoliudaxia/ArduinoIoTDoorControl.git
